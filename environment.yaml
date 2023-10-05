@@ -1,0 +1,13 @@
+name: deep-learning-homeworks
+channels:
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter=1.0.0
+  - numpy=1.22.3
+  - pip=23.2.1
+  - python=3.10.13
+  - tensorflow
+  - matplotlib
+  - scikit-learn
